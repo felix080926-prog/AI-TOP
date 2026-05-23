@@ -1,5 +1,5 @@
 ---
-title: "HKUDS_CLI-Anything"
+title: "别给你的 AI 配 GUI 了：HKUDS/CLI-Anything 想让所有软件「回到」命令行"
 date: 2026-05-20
 draft: false
 categories: ["AI Agent"]

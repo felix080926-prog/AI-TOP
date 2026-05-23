@@ -1,5 +1,5 @@
 ---
-title: "agent-skills"
+title: '这位谷歌大佬写了个 AI Agent 的"技能树"——把你的编程助手从实习生变成架构师'
 date: 2026-05-07
 draft: false
 categories: ["AI Agent"]

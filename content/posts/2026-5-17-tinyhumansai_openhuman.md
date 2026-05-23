@@ -1,5 +1,5 @@
 ---
-title: "tinyhumansai_openhuman"
+title: '9101 Star！这个叫 OpenHuman 的项目，让 AI 终于"认识你"了'
 date: 2026-05-17
 draft: false
 categories: ["多模态创作"]

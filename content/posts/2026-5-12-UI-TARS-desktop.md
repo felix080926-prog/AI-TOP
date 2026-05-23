@@ -1,5 +1,5 @@
 ---
-title: "UI-TARS-desktop"
+title: "字节跳动刚开源的多模态 AI Agent 栈，为什么一天涨了 1000 个 Star？"
 date: 2026-05-12
 draft: false
 categories: ["AI Agent"]

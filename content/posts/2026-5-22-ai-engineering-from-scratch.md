@@ -1,5 +1,5 @@
 ---
-title: "ai-engineering-from-scratch"
+title: "从 Linear Algebra 到 Autonomous Swarms：这个 435 课的 GitHub 项目，可能是你转行 AI 工程师的最后一站"
 date: 2026-05-22
 draft: false
 categories: ["知识与工具"]

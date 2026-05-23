@@ -1,5 +1,5 @@
 ---
-title: "TradingAgents"
+title: "用 AI 代理团帮你炒股——TradingAgents 把华尔街搬进命令行"
 date: 2026-05-05
 draft: false
 categories: ["AI Agent"]

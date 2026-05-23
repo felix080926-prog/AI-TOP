@@ -1,5 +1,5 @@
 ---
-title: "openai-codex"
+title: "OpenAI 把 AI 编程助手做成了终端里的「瑞士军刀」"
 date: 2026-05-18
 draft: false
 categories: ["AI 编程"]
