@@ -336,28 +336,89 @@ a:hover {
     color: var(--accent);
 }
 
+/* ---- Post Layout with TOC sidebar ---- */
+.post-layout {
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+}
+
+.post-toc-sidebar {
+    flex: 0 0 240px;
+    position: sticky;
+    top: 80px;
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+}
+
+.post-body {
+    flex: 1;
+    min-width: 0;
+}
+
 /* ---- TOC ---- */
 .toc {
     background: var(--entry);
     border: 1px solid var(--border);
     border-radius: var(--radius);
-    padding: 20px;
-    margin: 0 0 24px;
+    padding: 16px 20px;
+    margin: 0;
+    font-size: 0.9em;
 }
 
 .toc details summary {
     color: var(--primary);
     font-weight: 600;
     cursor: pointer;
+    font-size: 0.95em;
+    margin-bottom: 8px;
 }
 
 .toc nav ul {
-    padding-left: 20px;
+    padding-left: 16px;
+    list-style: none;
+}
+
+.toc nav ul li {
+    margin: 4px 0;
 }
 
 .toc nav a {
     color: var(--secondary);
-    font-size: 0.9em;
+    font-size: 0.85em;
+    transition: color 0.2s;
+}
+
+.toc nav a:hover {
+    color: var(--accent);
+}
+
+.toc nav ul ul {
+    padding-left: 12px;
+    border-left: 1px solid var(--border);
+    margin-left: 4px;
+}
+
+/* ---- Theme Toggle ---- */
+#theme-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--entry);
+    cursor: pointer;
+    color: var(--secondary);
+    font-size: 1.1em;
+    transition: all 0.2s;
+}
+
+#theme-toggle:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+    background: rgba(167, 139, 250, 0.1);
 }
 
 /* ---- Social Icons ---- */
@@ -446,6 +507,16 @@ a:hover {
     .first-entry {
         padding: 36px 20px;
     }
+    .post-layout {
+        flex-direction: column;
+    }
+    .post-toc-sidebar {
+        flex: none;
+        position: static;
+        order: -1;
+        max-height: none;
+        width: 100%;
+    }
 }
 
 /* ---- Category header badge ---- */
@@ -457,4 +528,67 @@ a:hover {
 /* ---- Projects page styling ---- */
 #projects-index h2, .post-content h2 {
     margin-top: 2em;
+}
+
+/* ---- Light Theme ---- */
+:root body {
+    --theme: #0a0a1a;
+    --entry: #12122a;
+    --content: #e2e8f0;
+    --secondary: #94a3b8;
+    --border: #2a2a4a;
+    --tertiary: #1e1e3a;
+    --code-bg: #1a1a35;
+}
+
+body:not(.dark) {
+    --theme: #f8fafc;
+    --entry: #ffffff;
+    --primary: #7c3aed;
+    --primary-dim: #6d28d9;
+    --secondary: #64748b;
+    --tertiary: #e2e8f0;
+    --content: #1e293b;
+    --code-bg: #f1f5f9;
+    --border: #e2e8f0;
+    --accent: #059669;
+    --accent2: #2563eb;
+    --shadow: 0 4px 24px rgba(0, 0, 0, 0.04);
+    --shadow-hover: 0 8px 40px rgba(0, 0, 0, 0.08);
+}
+
+body:not(.dark) {
+    background: var(--theme);
+    background-image: none;
+}
+
+body:not(.dark) .nav {
+    background: rgba(248, 250, 252, 0.9);
+}
+
+body:not(.dark) .logo a {
+    -webkit-text-fill-color: var(--primary);
+    background: none;
+}
+
+body:not(.dark) .home-info h1 {
+    -webkit-text-fill-color: var(--primary);
+    background: none;
+}
+
+body:not(.dark) .first-entry {
+    background: linear-gradient(135deg, rgba(124, 58, 237, 0.04), rgba(5, 150, 105, 0.04));
+    border-color: rgba(124, 58, 237, 0.2);
+}
+
+body:not(.dark) .post-entry:hover {
+    border-color: rgba(124, 58, 237, 0.3);
+}
+
+body:not(.dark) .toc nav ul ul {
+    border-left-color: var(--border);
+}
+
+body:not(.dark) #theme-toggle:hover {
+    background: rgba(124, 58, 237, 0.08);
 }
