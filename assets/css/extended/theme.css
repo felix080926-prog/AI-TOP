@@ -337,8 +337,13 @@ a:hover {
 }
 
 /* ---- Post Layout with TOC sidebar ---- */
-.post-single {
+/* Override main width for post pages to fit TOC sidebar */
+main:has(.post-toc-sidebar) {
     max-width: 1100px;
+}
+
+main:has(.post-toc-sidebar) .post-single {
+    max-width: none;
 }
 
 .post-layout {
