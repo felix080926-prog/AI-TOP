@@ -16,6 +16,25 @@
     --shadow-hover: 0 8px 40px rgba(167, 139, 250, 0.18);
 }
 
+:root[data-theme=dark] {
+    --theme: #0a0a1a;
+    --entry: #12122a;
+    --primary: #a78bfa;
+    --primary-dim: #7c5ce7;
+    --secondary: #94a3b8;
+    --tertiary: #1e1e3a;
+    --content: #e2e8f0;
+    --code-bg: #1a1a35;
+    --border: #2a2a4a;
+    --accent: #06d6a0;
+    --accent2: #3b82f6;
+    --accent3: #f97316;
+    --radius: 12px;
+    --shadow: 0 4px 24px rgba(167, 139, 250, 0.08);
+    --shadow-hover: 0 8px 40px rgba(167, 139, 250, 0.18);
+    color-scheme: dark;
+}
+
 * {
     scrollbar-width: thin;
     scrollbar-color: var(--tertiary) var(--theme);
@@ -423,9 +442,9 @@ main:has(.post-toc-sidebar) .post-single {
     cursor: pointer;
     color: var(--secondary);
     padding: 0;
-    margin-left: 4px;
     transition: all 0.2s;
     line-height: 1;
+    flex-shrink: 0;
 }
 
 #menu li button#theme-toggle:hover {
@@ -434,8 +453,13 @@ main:has(.post-toc-sidebar) .post-single {
     background: rgba(167, 139, 250, 0.1);
 }
 
-body:not(.dark) #menu li button#theme-toggle:hover {
+html[data-theme="light"] #menu li button#theme-toggle:hover {
     background: rgba(124, 58, 237, 0.08);
+}
+
+/* Override PaperMod .theme-toggle padding */
+button#theme-toggle {
+    padding: 0 !important;
 }
 
 /* ---- Social Icons ---- */
@@ -548,7 +572,7 @@ body:not(.dark) #menu li button#theme-toggle:hover {
 }
 
 /* ---- Light Theme ---- */
-html[data-theme="light"] body {
+:root[data-theme=light] {
     --theme: #f8fafc;
     --entry: #ffffff;
     --primary: #7c3aed;
@@ -562,6 +586,7 @@ html[data-theme="light"] body {
     --accent2: #2563eb;
     --shadow: 0 4px 24px rgba(0, 0, 0, 0.04);
     --shadow-hover: 0 8px 40px rgba(0, 0, 0, 0.08);
+    color-scheme: light;
 }
 
 html[data-theme="light"] body {
