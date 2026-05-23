@@ -1,0 +1,124 @@
+:root {
+    --theme: #0d1117;
+    --entry: #161b22;
+    --primary: #58a6ff;
+    --secondary: #8b949e;
+    --tertiary: #30363d;
+    --content: #c9d1d9;
+    --hljs-bg: #161b22;
+    --code-bg: #21262d;
+    --border: #30363d;
+
+    --accent: #3fb950;
+    --accent2: #58a6ff;
+    --accent3: #f78166;
+
+    --main-width: 820px;
+}
+
+.dark {
+    --theme: #0d1117;
+    --entry: #161b22;
+    --primary: #58a6ff;
+    --secondary: #8b949e;
+    --tertiary: #30363d;
+    --content: #c9d1d9;
+    --hljs-bg: #161b22;
+    --code-bg: #21262d;
+    --border: #30363d;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+.post-content h1, .post-content h2, .post-content h3 {
+    color: var(--primary);
+}
+
+a {
+    color: var(--accent2);
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: var(--accent);
+}
+
+.post-tags a {
+    background: rgba(63, 185, 80, 0.1);
+    border: 1px solid rgba(63, 185, 80, 0.3);
+    color: var(--accent);
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 0.85em;
+}
+
+.post-tags a:hover {
+    background: rgba(63, 185, 80, 0.2);
+}
+
+.paginav a {
+    border-color: var(--border);
+}
+
+.post-entry {
+    border-bottom: 1px solid var(--border);
+}
+
+.header, .nav {
+    background: rgba(13, 17, 23, 0.95);
+    backdrop-filter: blur(10px);
+}
+
+.first-entry .entry-header h1 {
+    font-size: 2.2em;
+    background: linear-gradient(135deg, #58a6ff, #3fb950);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.entry-header h2 {
+    font-size: 1.3em;
+}
+
+.post-content code {
+    background: var(--code-bg);
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-size: 0.9em;
+}
+
+.post-content pre {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+}
+
+.post-content blockquote {
+    border-left: 3px solid var(--accent);
+    background: rgba(63, 185, 80, 0.05);
+    padding: 8px 16px;
+    border-radius: 0 6px 6px 0;
+}
+
+.post-content img {
+    border-radius: 8px;
+}
+
+.breadcrumbs a {
+    color: var(--secondary);
+}
+
+.share-buttons svg {
+    fill: var(--secondary);
+}
+
+.share-buttons svg:hover {
+    fill: var(--accent2);
+}
+
+.top-link {
+    background: var(--tertiary);
+    border-radius: 50%;
+}

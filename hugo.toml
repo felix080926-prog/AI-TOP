@@ -1,0 +1,76 @@
+baseURL = "https://felix080926-prog.github.io/AI-TOP/"
+languageCode = "zh-cn"
+title = "AI 开源雷达"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 10
+enableEmoji = true
+
+[params]
+  env = "production"
+  description = "每日精选 AI 开源项目，涵盖编程、Agent、多模态、部署、知识工具五大方向"
+  author = "雷达君"
+  defaultTheme = "dark"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  ShowFullTextinRSS = true
+  comments = false
+
+  [params.homeInfoParams]
+    Title = "AI 开源雷达"
+    Content = "每日精选一个 GitHub 开源 AI 项目，帮你发现下一个改变游戏规则的工具。涵盖 AI 编程、Agent 智能体、多模态创作、本地部署、知识工具五大方向。"
+
+  [params.profileMode]
+    enabled = false
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/felix080926-prog/AI-TOP"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "GitHub 项目"
+    url = "/projects/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
