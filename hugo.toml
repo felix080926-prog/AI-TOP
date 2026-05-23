@@ -18,6 +18,7 @@ enableEmoji = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
+  TocOpen = true
   ShowFullTextinRSS = true
   comments = false
 

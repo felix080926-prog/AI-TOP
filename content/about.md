@@ -2,6 +2,7 @@
 title: "关于我"
 url: "/about/"
 draft: false
+ShowToc: false
 ---
 
 大家好，我是**雷达君**。
@@ -18,4 +19,4 @@ draft: false
 
 扫描下方二维码，在微信搜一搜关注「AI 开源雷达」公众号，第一时间获取每日 AI 开源项目推荐。
 
-![公众号二维码](/about-qr.png)
+![公众号二维码](about-qr.png)

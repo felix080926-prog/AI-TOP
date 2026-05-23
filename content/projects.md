@@ -3,6 +3,7 @@ title: "GitHub 项目索引"
 layout: "page"
 url: "/projects/"
 draft: false
+ShowToc: false
 ---
 
 本页汇总了 **AI 开源雷达** 推荐过的所有 GitHub 开源项目，按分类整理。
