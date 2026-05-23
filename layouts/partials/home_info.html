@@ -1,0 +1,22 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="home-subtitle">每日精选 GitHub 开源 AI 项目</div>
+    <div class="entry-content md-content">
+        {{ $opts := dict "display" "block" }}
+        {{ .Content | $.Page.RenderString $opts }}
+    </div>
+    <div class="home-stats">
+        <span class="stat-item"><strong>74</strong> 篇文章</span>
+        <span class="stat-divider">·</span>
+        <span class="stat-item"><strong>5</strong> 个分类</span>
+        <span class="stat-divider">·</span>
+        <span class="stat-item"><strong>60+</strong> 开源项目</span>
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}
