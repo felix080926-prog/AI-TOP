@@ -8,10 +8,6 @@ tags: ["本地部署 & 省钱"]
 
 
 
-#  Cherry Studio：一个软件打通 GPT、Claude 和本地大模型
-
-
-
 如果你经常用 AI，大概率会遇到这种情况：
 
   * GPT、Claude、Gemini 分散在不同平台

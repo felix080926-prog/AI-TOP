@@ -8,10 +8,6 @@ tags: ["AI Agent"]
 
 
 
-#  做 AI Agent 时，最容易被忽视的一层基础设施：OpenViking
-
-
-
 如果你最近在做 **AI Agent、RAG 或自动化工作流** ，很可能已经发现一个问题：
 
 **模型不是最大瓶颈，Context 管理才是。**

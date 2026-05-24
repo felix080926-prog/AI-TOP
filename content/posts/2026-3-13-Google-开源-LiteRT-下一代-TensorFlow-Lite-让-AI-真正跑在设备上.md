@@ -8,10 +8,6 @@ tags: ["本地部署 & 省钱"]
 
 
 
-#  Google 开源 LiteRT：下一代 TensorFlow Lite，让 AI 真正跑在设备上
-
-
-
 如果你在做 AI 应用，大概率会遇到一个问题：
 
 **很多 AI 模型只能跑在云端。**
