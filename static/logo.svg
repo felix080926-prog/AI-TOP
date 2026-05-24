@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="radarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06d6a0"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="dotGrad">
+      <stop offset="0%" stop-color="#06d6a0"/>
+      <stop offset="100%" stop-color="#06d6a000"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="46" fill="none" stroke="url(#radarGrad)" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="50" cy="50" r="32" fill="none" stroke="url(#radarGrad)" stroke-width="1" opacity="0.25"/>
+  <circle cx="50" cy="50" r="16" fill="none" stroke="url(#radarGrad)" stroke-width="0.8" opacity="0.2"/>
+  
+  <!-- Crosshairs -->
+  <line x1="50" y1="8" x2="50" y2="92" stroke="url(#radarGrad)" stroke-width="0.5" opacity="0.15"/>
+  <line x1="8" y1="50" x2="92" y2="50" stroke="url(#radarGrad)" stroke-width="0.5" opacity="0.15"/>
+  
+  <!-- Radar sweep -->
+  <path d="M50 50 L50 14 A36 36 0 0 1 78 32 Z" fill="url(#radarGrad)" opacity="0.5"/>
+  
+  <!-- Center dot -->
+  <circle cx="50" cy="50" r="4" fill="#06d6a0" opacity="0.9"/>
+  <circle cx="50" cy="50" r="8" fill="url(#dotGrad)" opacity="0.3"/>
+  
+  <!-- Signal dots -->
+  <circle cx="62" cy="28" r="2" fill="#06d6a0" opacity="0.7"/>
+  <circle cx="72" cy="42" r="1.5" fill="#a78bfa" opacity="0.5"/>
+  <circle cx="35" cy="65" r="1.8" fill="#06d6a0" opacity="0.4"/>
+</svg>
