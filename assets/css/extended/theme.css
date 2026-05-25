@@ -118,6 +118,10 @@ body {
 }
 
 /* ---- Post Cards ---- */
+main:has(.post-entry) {
+    max-width: 1100px;
+}
+
 .post-entry {
     background: var(--entry);
     border: 1px solid var(--border);
@@ -128,6 +132,32 @@ body {
     box-shadow: var(--shadow);
     position: relative;
     overflow: hidden;
+}
+
+/* 3-column grid for post listing */
+main:has(.post-entry) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+main:has(.post-entry) > .page-header {
+    width: 100%;
+}
+
+main:has(.post-entry) .post-entry {
+    flex: 0 0 calc(33.333% - 11px);
+    margin-bottom: 0;
+}
+
+/* Cover images in grid - limit height */
+main:has(.post-entry) .entry-cover img {
+    max-height: 160px;
+    object-fit: cover;
+}
+
+main:has(.post-entry) > .page-footer {
+    width: 100%;
 }
 
 .post-entry::before {
@@ -557,6 +587,17 @@ button#theme-toggle {
         order: -1;
         max-height: none;
         width: 100%;
+    }
+    /* Single column on mobile */
+    main:has(.post-entry) .post-entry {
+        flex: 0 0 100%;
+    }
+}
+
+/* Tablet: 2 columns */
+@media (min-width: 769px) and (max-width: 1100px) {
+    main:has(.post-entry) .post-entry {
+        flex: 0 0 calc(50% - 8px);
     }
 }
 
