@@ -29,7 +29,7 @@
   </header>
 
   <div class="post-layout">
-    {{- if (.Param "ShowToc") }}
+    {{- if (ne (.Param "showtoc") false) }}
     <aside class="post-toc-sidebar">
       {{- partial "toc.html" . }}
     </aside>
