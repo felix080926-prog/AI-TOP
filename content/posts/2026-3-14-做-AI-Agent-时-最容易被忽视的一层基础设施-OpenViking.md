@@ -4,6 +4,9 @@ date: 2026-03-14
 draft: false
 categories: ["AI Agent"]
 tags: ["AI Agent"]
+cover:
+    image: "covers/2026-03-14.webp"
+    hiddenInList: false
 ---
 
 

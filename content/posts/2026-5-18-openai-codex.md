@@ -4,6 +4,9 @@ date: 2026-05-18
 draft: false
 categories: ["AI 编程"]
 tags: ["AI 编程"]
+cover:
+    image: "covers/2026-05-18.webp"
+    hiddenInList: false
 ---
 
 2018 年，我花了一整天折腾 Vim 配置，只为让编辑器能自动补全括号。

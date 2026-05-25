@@ -4,6 +4,9 @@ date: 2026-04-05
 draft: false
 categories: ["AI 编程"]
 tags: ["AI 编程"]
+cover:
+    image: "covers/2026-04-05.webp"
+    hiddenInList: false
 ---
 
 

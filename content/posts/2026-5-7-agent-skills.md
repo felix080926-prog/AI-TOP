@@ -4,6 +4,9 @@ date: 2026-05-07
 draft: false
 categories: ["AI Agent"]
 tags: ["AI Agent"]
+cover:
+    image: "covers/2026-05-07.webp"
+    hiddenInList: false
 ---
 
 **大家好，我是雷达君。**

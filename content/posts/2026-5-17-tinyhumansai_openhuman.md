@@ -4,6 +4,9 @@ date: 2026-05-17
 draft: false
 categories: ["多模态创作"]
 tags: ["多模态创作"]
+cover:
+    image: "covers/2026-05-17.webp"
+    hiddenInList: false
 ---
 
 做 AI 工具最烦的事情是什么？

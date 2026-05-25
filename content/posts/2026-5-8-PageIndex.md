@@ -4,6 +4,9 @@ date: 2026-05-08
 draft: false
 categories: ["知识与工具"]
 tags: ["知识与工具"]
+cover:
+    image: "covers/2026-05-08.webp"
+    hiddenInList: false
 ---
 
 去年我在做一个合同审查系统时，被一个问题折磨了整整两周：

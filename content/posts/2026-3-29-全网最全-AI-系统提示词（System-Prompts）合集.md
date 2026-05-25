@@ -4,6 +4,9 @@ date: 2026-03-29
 draft: false
 categories: ["知识与工具"]
 tags: ["知识与工具"]
+cover:
+    image: "covers/2026-03-29.webp"
+    hiddenInList: false
 ---
 
 

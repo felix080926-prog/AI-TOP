@@ -4,6 +4,9 @@ date: 2026-04-02
 draft: false
 categories: ["多模态创作"]
 tags: ["多模态创作"]
+cover:
+    image: "covers/2026-04-02.webp"
+    hiddenInList: false
 ---
 
 

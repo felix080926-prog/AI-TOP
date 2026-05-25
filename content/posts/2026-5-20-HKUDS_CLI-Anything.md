@@ -4,6 +4,9 @@ date: 2026-05-20
 draft: false
 categories: ["AI Agent"]
 tags: ["AI Agent"]
+cover:
+    image: "covers/2026-05-20.webp"
+    hiddenInList: false
 ---
 
 上周和一个做 AI 工具的朋友聊天，他说有个客户提了个需求：能不能让 AI Agent 直接操作公司的内部 CRM？

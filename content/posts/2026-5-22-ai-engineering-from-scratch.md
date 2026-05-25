@@ -4,6 +4,9 @@ date: 2026-05-22
 draft: false
 categories: ["知识与工具"]
 tags: ["知识与工具"]
+cover:
+    image: "covers/2026-05-22.webp"
+    hiddenInList: false
 ---
 
 昨天一个做后端的朋友找我聊天，说公司突然把整个组拉去搞 AI 了。"上周还在写 CRUD，这周老板就让我搭 RAG 流水线。"他苦笑了一下，"我连 attention 是什么意思都说不清楚。"

@@ -4,6 +4,9 @@ date: 2026-03-13
 draft: false
 categories: ["本地部署 & 省钱"]
 tags: ["本地部署 & 省钱"]
+cover:
+    image: "covers/2026-03-13.webp"
+    hiddenInList: false
 ---
 
 
