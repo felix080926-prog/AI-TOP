@@ -22,6 +22,7 @@ ShowToc: false
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) — 零基础 AI 编程
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) — AI 编程外挂库
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — AI 编码工具一键切换
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) — AI 代码安全审计
 - [multica-ai/multica](https://github.com/multica-ai/multica) — Claude Code AI 军团
