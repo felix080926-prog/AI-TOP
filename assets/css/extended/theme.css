@@ -136,17 +136,16 @@ main:has(.post-entry) {
 
 /* 3-column grid for post listing */
 main:has(.post-entry) {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 16px;
 }
 
 main:has(.post-entry) > .page-header {
-    width: 100%;
+    grid-column: 1 / -1;
 }
 
 main:has(.post-entry) .post-entry {
-    flex: 0 0 calc(33.333% - 11px);
     margin-bottom: 0;
 }
 
@@ -157,7 +156,7 @@ main:has(.post-entry) .entry-cover img {
 }
 
 main:has(.post-entry) > .page-footer {
-    width: 100%;
+    grid-column: 1 / -1;
 }
 
 .post-entry::before {
@@ -596,9 +595,36 @@ button#theme-toggle {
 
 /* Tablet: 2 columns */
 @media (min-width: 769px) and (max-width: 1100px) {
-    main:has(.post-entry) .post-entry {
-        flex: 0 0 calc(50% - 8px);
+    main:has(.post-entry) {
+        grid-template-columns: repeat(2, 1fr);
     }
+}
+
+/* Mobile: single column */
+@media (max-width: 768px) {
+    .home-info h1 {
+        font-size: 2em;
+    }
+    .post-entry {
+        padding: 20px;
+    }
+    .first-entry {
+        padding: 36px 20px;
+    }
+    .post-layout {
+        flex-direction: column;
+    }
+    .post-toc-sidebar {
+        flex: none;
+        position: static;
+        order: -1;
+        max-height: none;
+        width: 100%;
+    }
+    main:has(.post-entry) {
+        grid-template-columns: 1fr;
+    }
+}
 }
 
 /* ---- Category header badge ---- */
