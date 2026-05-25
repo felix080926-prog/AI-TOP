@@ -3,7 +3,7 @@ languageCode = "zh-cn"
 title = "AI 开源雷达"
 theme = "PaperMod"
 [pagination]
-  pagerSize = 10
+  pagerSize = 9
 enableEmoji = true
 
 [params]
