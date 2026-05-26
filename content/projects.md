@@ -86,4 +86,6 @@ ShowToc: false
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
 - [supabase/supabase](https://github.com/supabase/supabase) — AI 应用后端
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — AI 工程从零学起
+
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — AI 写作品味优化
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — Claude Code 全攻略
