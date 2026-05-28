@@ -53,6 +53,7 @@ ShowToc: false
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — LangChain
 - [trycua/cua](https://github.com/trycua/cua) — Agent 精准操控
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — CLI Agent
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) — AI 工作流引擎
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) — 个人 AI 基础设施
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Agent 技能插件
 
