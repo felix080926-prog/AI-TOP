@@ -78,6 +78,7 @@ ShowToc: false
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) — 内容自动分发
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — AI 生图工作流
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) — ComfyUI
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 一键生成短视频
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) — AI 数字人
 
 ## 知识与工具
