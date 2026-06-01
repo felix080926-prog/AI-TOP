@@ -62,6 +62,7 @@ ShowToc: false
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — Cherry Studio 多模型客户端
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) — 设备端 AI 推理
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — Gemma 4 Gallery
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — AI 离线生存手册
 - [jundot/omlx](https://github.com/jundot/omlx) — Mac 本地大模型
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — LobeHub
