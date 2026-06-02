@@ -566,6 +566,25 @@ button#theme-toggle {
     color: var(--border);
 }
 
+.home-rss {
+    margin-top: 16px;
+}
+
+.home-rss a {
+    display: inline-block;
+    padding: 6px 18px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--secondary);
+    font-size: 0.9em;
+    transition: all 0.2s;
+}
+
+.home-rss a:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 768px) {
     .home-info h1 {

@@ -72,12 +72,6 @@ enableEmoji = true
     url = "/search/"
     weight = 50
 
-  [[menu.main]]
-    identifier = "rss"
-    name = "RSS"
-    url = "/index.xml"
-    weight = 60
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
