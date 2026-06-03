@@ -66,6 +66,7 @@ ShowToc: false
 - [jundot/omlx](https://github.com/jundot/omlx) — Mac 本地大模型
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — LobeHub
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) — 企业 AI 网关
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — API 省钱方案
 
 ## 多模态创作
