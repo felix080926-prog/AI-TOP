@@ -86,6 +86,7 @@ ShowToc: false
 
 ## 知识与工具
 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 开源 RAG 引擎
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — 多模态 RAG
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 无向量数据库 RAG
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — LLM 专用高速爬虫
