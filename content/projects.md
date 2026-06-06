@@ -56,6 +56,7 @@ ShowToc: false
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — CLI Agent
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) — AI 工作流引擎
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) — 个人 AI 基础设施
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — AI Agent 24/7 运行平台
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Agent 技能插件
 
 ## 本地部署 & 省钱
