@@ -95,6 +95,7 @@ ShowToc: false
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 无向量数据库 RAG
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — LLM 专用高速爬虫
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — 开源趋势雷达
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) — LLM 可观测性平台
 - [PostHog/posthog](https://github.com/PostHog/posthog) — 全能产品分析
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
 - [supabase/supabase](https://github.com/supabase/supabase) — AI 应用后端
