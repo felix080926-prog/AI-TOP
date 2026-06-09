@@ -19,6 +19,7 @@ ShowToc: false
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) — 代码库知识图谱
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Claude Code AI 游戏工作室
 - [FissionAI/OpenSpec](https://github.com/FissionAI/OpenSpec) — AI 编程规范
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) — Block 开源的 AI 编程助手
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) — 零基础 AI 编程
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) — AI 编程外挂库
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — AI 编码工具一键切换
