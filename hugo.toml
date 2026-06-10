@@ -2,6 +2,7 @@ baseURL = "https://felix080926-prog.github.io/AI-TOP/"
 languageCode = "zh-cn"
 title = "AI 开源雷达"
 theme = "PaperMod"
+buildFuture = true
 [pagination]
   pagerSize = 9
 enableEmoji = true
