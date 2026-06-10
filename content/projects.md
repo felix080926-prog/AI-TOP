@@ -93,6 +93,7 @@ ShowToc: false
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 开源 RAG 引擎
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — 多模态 RAG
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 无向量数据库 RAG
+- [apify/crawlee](https://github.com/apify/crawlee) — 工业级爬虫框架
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — LLM 专用高速爬虫
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — 开源趋势雷达
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) — LLM 可观测性平台
