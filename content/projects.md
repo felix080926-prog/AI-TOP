@@ -40,6 +40,7 @@ ShowToc: false
 - [epiral/bb-browser](https://github.com/epiral/bb-browser) — AI 操控浏览器
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) — AI 记忆平台
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) — Agent 记忆操作系统
+- [mempalace/mempalace](https://github.com/mempalace/mempalace) — AI 记忆宫殿
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) — AI 持久记忆系统
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — Claude 记忆增强
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Agent 长线记忆
