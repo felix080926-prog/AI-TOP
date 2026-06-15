@@ -50,6 +50,7 @@ ShowToc: false
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) — 阿里 QwenPaw 智能体
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — AI 股票交易 Agent
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) — DeepSeek TUI Agent
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Agent 技能安全扫描
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Agent 技能树
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) — 拖拽式 Agent 搭建
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — 字节多模态 Agent
