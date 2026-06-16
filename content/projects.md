@@ -43,6 +43,7 @@ ShowToc: false
 - [mempalace/mempalace](https://github.com/mempalace/mempalace) — AI 记忆宫殿
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) — AI 持久记忆系统
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — Claude 记忆增强
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) — LLM 推理缓存加速
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Agent 长线记忆
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — 自我进化 Agent
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) — AI 自动进化
