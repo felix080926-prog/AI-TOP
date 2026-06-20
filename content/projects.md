@@ -72,6 +72,7 @@ ShowToc: false
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) — 设备端 AI 推理
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — Gemma 4 Gallery
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — AI 离线生存手册
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) — LLM Token 极致压缩
 - [jundot/omlx](https://github.com/jundot/omlx) — Mac 本地大模型
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — LobeHub
@@ -106,6 +107,7 @@ ShowToc: false
 - [PostHog/posthog](https://github.com/PostHog/posthog) — 全能产品分析
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
 - [supabase/supabase](https://github.com/supabase/supabase) — AI 应用后端
+- [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) — Deep Agents 实战教程
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — AI 工程从零学起
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — AI 写作品味优化
