@@ -86,6 +86,7 @@ ShowToc: false
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — 长语音转写
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) — 方言语音识别
 - [google/magika](https://github.com/google/magika) — AI 文件类型识别
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS AI 视频编辑器
 - [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) — AI 视频工厂
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) — 内容自动分发
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — AI 生图工作流
