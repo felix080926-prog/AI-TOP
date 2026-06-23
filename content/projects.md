@@ -84,6 +84,7 @@ ShowToc: false
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — OCR 工具
 - [songguoxs/gpt4o-image-prompts](https://github.com/songguoxs/gpt4o-image-prompts) — AI 绘图 Prompt 库
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — 长语音转写
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) — 开源语音输入输出
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) — 方言语音识别
 - [google/magika](https://github.com/google/magika) — AI 文件类型识别
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS AI 视频编辑器
