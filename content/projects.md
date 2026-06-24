@@ -91,6 +91,7 @@ ShowToc: false
 - [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) — AI 视频工厂
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) — 内容自动分发
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — AI 生图工作流
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — 开源智能视频工厂
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) — ComfyUI
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — AI UI 设计引擎
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 一键生成短视频
