@@ -25,6 +25,7 @@ ShowToc: false
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — AI 编码工具一键切换
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — Claude Code 最强插件
+- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — AI 网站克隆器
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) — AI 代码安全审计
