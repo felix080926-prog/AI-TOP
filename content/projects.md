@@ -52,6 +52,7 @@ ShowToc: false
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) — AI 自动进化
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — AI 编程 Agent
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) — 阿里 QwenPaw 智能体
+- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) — AI 巴菲特选股框架
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — AI 股票交易 Agent
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) — DeepSeek TUI Agent
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Agent 技能安全扫描
