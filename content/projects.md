@@ -113,6 +113,7 @@ ShowToc: false
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) — LLM 可观测性平台
 - [PostHog/posthog](https://github.com/PostHog/posthog) — 全能产品分析
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
+- [logto-io/logto](https://github.com/logto-io/logto) — 开源认证基础设施
 - [supabase/supabase](https://github.com/supabase/supabase) — AI 应用后端
 - [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) — Deep Agents 实战教程
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — AI 工程从零学起
