@@ -28,6 +28,7 @@ ShowToc: false
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — AI 网站克隆器
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
+- [usestrix/strix](https://github.com/usestrix/strix) — AI 0day 漏洞扫描
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) — AI 代码安全审计
 - [multica-ai/multica](https://github.com/multica-ai/multica) — Claude Code AI 军团
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — Karpathy 编码技能
