@@ -68,6 +68,7 @@ ShowToc: false
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) — Netflix 开源工作流引擎
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) — AI 工作流引擎
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) — 个人 AI 基础设施
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) — AI Agent 作战指挥室
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — AI Agent 24/7 运行平台
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Agent 技能插件
 
