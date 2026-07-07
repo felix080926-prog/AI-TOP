@@ -118,6 +118,7 @@ ShowToc: false
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) — LLM 可观测性平台
 - [PostHog/posthog](https://github.com/PostHog/posthog) — 全能产品分析
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) — AI Agent 身份认证
 - [logto-io/logto](https://github.com/logto-io/logto) — 开源认证基础设施
 - [supabase/supabase](https://github.com/supabase/supabase) — AI 应用后端
 - [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) — Deep Agents 实战教程
