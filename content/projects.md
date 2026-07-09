@@ -67,6 +67,7 @@ ShowToc: false
 - [trycua/cua](https://github.com/trycua/cua) — Agent 精准操控
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — 轻量 AI Agent
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — CLI Agent
+- [gastownhall/gastown](https://github.com/gastownhall/gastown) — 多 Agent 编排平台
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) — Netflix 开源工作流引擎
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) — AI 工作流引擎
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) — 个人 AI 基础设施
