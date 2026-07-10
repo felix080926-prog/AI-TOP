@@ -29,6 +29,7 @@ ShowToc: false
 - [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) — Unity AI 编程指挥官
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 全自动 AI 渗透测试
 - [usestrix/strix](https://github.com/usestrix/strix) — AI 0day 漏洞扫描
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) — AI 代码安全审计
 - [multica-ai/multica](https://github.com/multica-ai/multica) — Claude Code AI 军团
