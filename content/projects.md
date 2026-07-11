@@ -62,6 +62,7 @@ ShowToc: false
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) — DeepSeek TUI Agent
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Agent 技能安全扫描
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Agent 技能树
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) — AI 全能工作区
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) — 拖拽式 Agent 搭建
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — 字节多模态 Agent
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — LangChain
