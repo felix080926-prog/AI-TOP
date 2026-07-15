@@ -109,6 +109,7 @@ ShowToc: false
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 编辑器即设计引擎
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — AI UI 设计引擎
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 一键生成短视频
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) — AI 虚拟伴侣
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) — AI 数字人
 
 ## 知识与工具
