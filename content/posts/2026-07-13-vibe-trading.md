@@ -1,5 +1,5 @@
 ---
-title: 'GitHub 20K Star！当 AI 学会"看情绪"做交易——港大 Vibe-Trading 拆解'
+title: '当 AI 学会"看情绪"做交易——港大 Vibe-Trading 拆解'
 date: 2026-07-13
 draft: false
 categories: ["AI Agent"]
