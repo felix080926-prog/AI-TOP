@@ -28,6 +28,7 @@ ShowToc: false
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — AI 网站克隆器
 - [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) — Unity AI 编程指挥官
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — 本地 AI 码农
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 全自动 AI 渗透测试
 - [usestrix/strix](https://github.com/usestrix/strix) — AI 0day 漏洞扫描
