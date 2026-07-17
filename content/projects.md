@@ -16,6 +16,7 @@ ShowToc: false
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — Claude Code 学习手册
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — AI 开发应用案例合集
 - [gastownhall/beads](https://github.com/gastownhall/beads) — 一人公司 AI 开发组
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — 代码项目可视化
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) — 代码库知识图谱
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Claude Code AI 游戏工作室
 - [FissionAI/OpenSpec](https://github.com/FissionAI/OpenSpec) — AI 编程规范
