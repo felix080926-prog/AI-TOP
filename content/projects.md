@@ -27,6 +27,7 @@ ShowToc: false
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — Claude Code 最强插件
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — AI 网站克隆器
 - [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) — Unity AI 编程指挥官
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — AI 前端审美引擎
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — 本地 AI 码农
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
