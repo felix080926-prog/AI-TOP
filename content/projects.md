@@ -121,6 +121,7 @@ ShowToc: false
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — 多模态 RAG
 - [labring/FastGPT](https://github.com/labring/FastGPT) — 企业级 AI 知识库
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 无向量数据库 RAG
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — AI 全网数据 API
 - [apify/crawlee](https://github.com/apify/crawlee) — 工业级爬虫框架
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — LLM 专用高速爬虫
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — AI 互联网之眼
