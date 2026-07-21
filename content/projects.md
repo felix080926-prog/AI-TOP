@@ -92,6 +92,7 @@ ShowToc: false
 - [jundot/omlx](https://github.com/jundot/omlx) — Mac 本地大模型
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — LobeHub
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — 271 家 AI 统一端点
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) — 企业 AI 网关
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — API 省钱方案
 
