@@ -133,6 +133,7 @@ ShowToc: false
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) — AI Agent 身份认证
 - [logto-io/logto](https://github.com/logto-io/logto) — 开源认证基础设施
 - [supabase/supabase](https://github.com/supabase/supabase) — AI 应用后端
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — AI Agent 开源教程
 - [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) — Deep Agents 实战教程
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — AI 工程从零学起
 
