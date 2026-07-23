@@ -127,6 +127,7 @@ ShowToc: false
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — LLM 专用高速爬虫
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — AI 互联网之眼
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — 开源趋势雷达
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — LLM 结构化输出
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) — LLM 可观测性平台
 - [PostHog/posthog](https://github.com/PostHog/posthog) — 全能产品分析
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
