@@ -34,6 +34,7 @@ ShowToc: false
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 全自动 AI 渗透测试
 - [usestrix/strix](https://github.com/usestrix/strix) — AI 0day 漏洞扫描
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — 阿里 AI 代码审查
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) — AI 代码安全审计
 - [multica-ai/multica](https://github.com/multica-ai/multica) — Claude Code AI 军团
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — Karpathy 编码技能
