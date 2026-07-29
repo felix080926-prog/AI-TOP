@@ -1,5 +1,5 @@
 ---
-title: 'GitHub 14K Star！阿里的代码审查神器来了——用 AI 把你的 Bug 扼杀在 PR 里'
+title: '阿里的代码审查神器来了——用 AI 把你的 Bug 扼杀在 PR 里'
 date: 2026-07-28
 draft: false
 categories: ["AI 编程"]
