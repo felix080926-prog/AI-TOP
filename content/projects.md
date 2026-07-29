@@ -140,6 +140,7 @@ ShowToc: false
 - [supabase/supabase](https://github.com/supabase/supabase) — AI 应用后端
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — AI Agent 开源教程
 - [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) — Deep Agents 实战教程
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — AI 终身学习伙伴
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — AI 工程从零学起
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — AI 写作品味优化
