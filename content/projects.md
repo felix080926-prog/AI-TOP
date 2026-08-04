@@ -77,6 +77,7 @@ ShowToc: false
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — LangChain
 - [trycua/cua](https://github.com/trycua/cua) — Agent 精准操控
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — 轻量 AI Agent
+- [earendil-works/pi](https://github.com/earendil-works/pi) — 极简终端 Agent
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — CLI Agent
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) — 多 Agent 编排平台
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) — Netflix 开源工作流引擎
