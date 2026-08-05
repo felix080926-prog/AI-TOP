@@ -34,6 +34,7 @@ ShowToc: false
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — 本地 AI 码农
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — AI 编程助手变渗透高手
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 全自动 AI 渗透测试
 - [usestrix/strix](https://github.com/usestrix/strix) — AI 0day 漏洞扫描
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — 阿里 AI 代码审查
