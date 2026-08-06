@@ -109,6 +109,7 @@ ShowToc: false
 ## 多模态创作
 
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — OCR 工具
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) — GPT-Image-2 提示词库
 - [songguoxs/gpt4o-image-prompts](https://github.com/songguoxs/gpt4o-image-prompts) — AI 绘图 Prompt 库
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — 长语音转写
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) — 开源语音输入输出
