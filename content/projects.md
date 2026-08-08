@@ -75,6 +75,7 @@ ShowToc: false
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) — AI 全能工作区
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) — 拖拽式 Agent 搭建
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — 字节多模态 Agent
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) — CV 模型军火库
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — LangChain
 - [trycua/cua](https://github.com/trycua/cua) — Agent 精准操控
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — 轻量 AI Agent
