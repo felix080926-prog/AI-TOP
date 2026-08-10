@@ -103,6 +103,7 @@ ShowToc: false
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — 多模型 AI 网页聊天
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — LobeHub
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) — 全网大模型统一网关
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) — 吴恩达 AI 模型切换库
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — 271 家 AI 统一端点
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) — 企业 AI 网关
