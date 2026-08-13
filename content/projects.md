@@ -120,6 +120,7 @@ ShowToc: false
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) — 开源语音输入输出
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) — 方言语音识别
 - [google/magika](https://github.com/google/magika) — AI 文件类型识别
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) — 文档转原生 PPTX
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) — macOS AI 视频编辑器
 - [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) — AI 视频工厂
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) — 内容自动分发
