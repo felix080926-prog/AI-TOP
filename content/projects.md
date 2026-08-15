@@ -63,6 +63,7 @@ ShowToc: false
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) — LLM 推理缓存加速
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Agent 长线记忆
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — RLM 自改进 Agent
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — 全自动 AI 代理
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — 自我进化 Agent
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) — AI 自动进化
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — AI 编程 Agent
