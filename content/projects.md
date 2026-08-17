@@ -71,6 +71,7 @@ ShowToc: false
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — AI 情绪交易系统
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) — AI 巴菲特选股框架
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — AI 股票交易 Agent
+- [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) — DeepSeek Harness 桌面版
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek 官方 Agent 框架
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) — DeepSeek TUI Agent
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Agent 技能安全扫描
