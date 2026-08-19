@@ -10,10 +10,6 @@
     {{- with $u.Fragment -}}
       {{- $src = printf "%s#%s" $src . -}}
     {{- end -}}
-  {{- else -}}
-    {{- /* For static files not in assets, use the path directly.
-           Hugo serves static/ files at the site root. */ -}}
-    {{- $src = $path -}}
   {{- end -}}
 {{- end -}}
 {{- $attributes := merge .Attributes (dict "alt" .Text "src" $src "title" (.Title | transform.HTMLEscape) "loading" "lazy") -}}

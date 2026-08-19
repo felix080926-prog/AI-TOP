@@ -28,7 +28,7 @@ PDFMathTranslate 的核心思路可以用一句话概括：**先把页面"看懂
 架构上它也不是一锤子买卖。目前默认的是稳定成熟的 v1 内核（fast 模式），同时官方在并行推进 v2 内核（`--mode precise`，基于独立仓库 PDFMathTranslate-next），并接入了 BabelDOC 作为实验性新后端。翻译引擎层面完全解耦：Google（默认、免费）、DeepL、OpenAI、Ollama（本地大模型）、MiniMax 等随意切换，你手头有什么就用什么。
 
 
-![PDFMathTranslate 翻译效果演示（左原文/右双语对照，排版完整保留）](images/01_preview.gif)
+![PDFMathTranslate 翻译效果演示（左原文/右双语对照，排版完整保留）](01_preview.gif)
 
 ## 02 ｜硬核功能盘点
 
@@ -42,7 +42,7 @@ PDFMathTranslate 的核心思路可以用一句话概括：**先把页面"看懂
 - **团队部署能力**：`--share` 生成公网分享链接，`--authorized` 配合用户名密码做访问控制——把 GUI 部署到内网服务器，就能给整个课题组提供统一的翻译入口。
 
 
-![浏览器图形界面演示（pdf2zh -i）](images/02_gui.gif)
+![浏览器图形界面演示（pdf2zh -i）](02_gui.gif)
 
 ## 03 ｜典型场景和避坑
 
@@ -62,7 +62,7 @@ PDFMathTranslate 的核心思路可以用一句话概括：**先把页面"看懂
 - 第四，**复杂版面别死磕 fast 模式**：遇到跨栏、跨页语义断裂的情况，可以试试实验性的 `--mode precise`（v2 内核）或 `--babeldoc` 后端，它们对边缘 case 的兼容性更好；但两者仍在快速迭代，生产使用前先拿几篇文档做对比测试。
 
 
-![命令行参数与输出文件一览](images/03_cmd_explained.png)
+![命令行参数与输出文件一览](03_cmd_explained.png)
 
 ## 04 ｜上手教程
 
