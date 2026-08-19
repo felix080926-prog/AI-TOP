@@ -44,6 +44,7 @@ ShowToc: false
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — AI 编程账单节省
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — AI Agent Office 套件
 - [allenai/olmocr](https://github.com/allenai/olmocr) — AI2 PDF 转 Markdown 神器
+- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) — 论文翻译神器
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) — PDF 无损转 Markdown
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) — 全自动 AI 程序员
 
