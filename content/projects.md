@@ -106,6 +106,7 @@ ShowToc: false
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) — AI 闭嘴干活
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — AI 啰嗦终结者
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) — LLM Token 极致压缩
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — 低配电脑跑大模型
 - [jundot/omlx](https://github.com/jundot/omlx) — Mac 本地大模型
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — 多模型 AI 网页聊天
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
