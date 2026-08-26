@@ -31,6 +31,7 @@ ShowToc: false
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — AI 设计审美系统
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — AI 前端审美引擎
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — DeepSeek 编程 Agent
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — AI 代码瘦身插件
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — 本地 AI 码农
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
