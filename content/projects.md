@@ -150,6 +150,7 @@ ShowToc: false
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — AI 全网数据 API
 - [apify/crawlee](https://github.com/apify/crawlee) — 工业级爬虫框架
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — LLM 专用高速爬虫
+- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) — AI 对话整理插件
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — AI 互联网之眼
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — 开源趋势雷达
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — LLM 结构化输出
@@ -158,6 +159,7 @@ ShowToc: false
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) — AI Agent 身份认证
 - [logto-io/logto](https://github.com/logto-io/logto) — 开源认证基础设施
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) — 低代码内部工具平台
 - [supabase/supabase](https://github.com/supabase/supabase) — AI 应用后端
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — AI Agent 开源教程
 - [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) — Deep Agents 实战教程
