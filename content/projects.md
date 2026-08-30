@@ -16,6 +16,7 @@ ShowToc: false
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — Claude Code 学习手册
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — AI 开发应用案例合集
 - [gastownhall/beads](https://github.com/gastownhall/beads) — 一人公司 AI 开发组
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) — AI 架构图生成
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — 代码项目可视化
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) — 代码库知识图谱
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Claude Code AI 游戏工作室
@@ -34,6 +35,7 @@ ShowToc: false
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — AI 代码瘦身插件
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — 本地 AI 码农
+- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) — JetBrains Go 规范
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — AI 编程助手变渗透高手
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 全自动 AI 渗透测试
@@ -114,6 +116,7 @@ ShowToc: false
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — 多模型 AI 网页聊天
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — LobeHub
+- [decolua/9router](https://github.com/decolua/9router) — AI 路由省钱工具
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) — 全网大模型统一网关
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) — 吴恩达 AI 模型切换库
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — 271 家 AI 统一端点
