@@ -57,6 +57,7 @@ ShowToc: false
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) — AI Agent 白盒架构
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — 多平台 AI 全能助理
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) — 多专家 AI Agent 团队
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Vercel Agent 浏览器
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) — AI Agent 专属浏览器
 - [epiral/bb-browser](https://github.com/epiral/bb-browser) — AI 操控浏览器
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) — AI 记忆平台
