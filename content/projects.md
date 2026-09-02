@@ -36,6 +36,7 @@ ShowToc: false
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — 本地 AI 码农
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) — JetBrains Go 规范
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) — 通义编程助手
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — AI 编程助手变渗透高手
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 全自动 AI 渗透测试
