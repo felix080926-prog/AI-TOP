@@ -82,6 +82,7 @@ ShowToc: false
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) — DeepSeek TUI Agent
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — AI 红队测试平台
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Agent 技能安全扫描
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 1500 技能包合集
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Agent 技能树
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) — AI 全能工作区
 - [simstudioai/sim](https://github.com/simstudioai/sim) — 流程图搭建 AI Agent
