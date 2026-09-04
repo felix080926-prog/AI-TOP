@@ -121,6 +121,7 @@ ShowToc: false
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — LobeHub
 - [decolua/9router](https://github.com/decolua/9router) — AI 路由省钱工具
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — 免费 635 模型 API
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) — 全网大模型统一网关
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) — 吴恩达 AI 模型切换库
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — 271 家 AI 统一端点
