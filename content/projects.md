@@ -18,6 +18,7 @@ ShowToc: false
 - [gastownhall/beads](https://github.com/gastownhall/beads) — 一人公司 AI 开发组
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) — AI 架构图生成
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — 代码项目可视化
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) — 代码地图生成
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) — 代码库知识图谱
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Claude Code AI 游戏工作室
 - [FissionAI/OpenSpec](https://github.com/FissionAI/OpenSpec) — AI 编程规范
@@ -103,6 +104,7 @@ ShowToc: false
 - [different-ai/openwork](https://github.com/different-ai/openwork) — AI Agent 桌面管理器
 - [stablyai/orca](https://github.com/stablyai/orca) — AI Agent 代码舰队
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) — AI Agent 作战指挥室
+- [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) — 腾讯 AI Agent 管理工具
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — AI Agent 24/7 运行平台
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Agent 技能插件
 
@@ -117,8 +119,10 @@ ShowToc: false
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) — LLM Token 极致压缩
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — 本地大模型 API 平台
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — 低配电脑跑大模型
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) — 大模型微调加速
 - [jundot/omlx](https://github.com/jundot/omlx) — Mac 本地大模型
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — 多模型 AI 网页聊天
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) — 本地大模型桌面应用
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — LobeHub
 - [decolua/9router](https://github.com/decolua/9router) — AI 路由省钱工具
