@@ -38,6 +38,7 @@ ShowToc: false
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — 本地 AI 码农
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) — JetBrains Go 规范
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) — 通义编程助手
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) — Mistral 终端编程助手
 - [openai/codex](https://github.com/openai/codex) — OpenAI Codex
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — AI 编程助手变渗透高手
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 全自动 AI 渗透测试
@@ -78,6 +79,7 @@ ShowToc: false
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) — 阿里 QwenPaw 智能体
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — AI 情绪交易系统
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) — AI 巴菲特选股框架
+- [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) — 数学建模 AI Agent
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — AI 股票交易 Agent
 - [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) — DeepSeek Harness 桌面版
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek 官方 Agent 框架
@@ -178,6 +180,7 @@ ShowToc: false
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — AI Agent 开源教程
 - [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) — Deep Agents 实战教程
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — AI 终身学习伙伴
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) — 从零手写大模型
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — AI 工程从零学起
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — AI 写作品味优化
