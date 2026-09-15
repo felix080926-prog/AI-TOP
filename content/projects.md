@@ -114,10 +114,12 @@ ShowToc: false
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — Cherry Studio 多模型客户端
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) — 设备端 AI 推理
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — 浏览器跑大模型
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — Gemma 4 Gallery
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — AI 离线生存手册
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) — AI 闭嘴干活
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — AI 啰嗦终结者
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — AI 上下文压缩
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) — LLM Token 极致压缩
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — 本地大模型 API 平台
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — 低配电脑跑大模型
