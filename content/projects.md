@@ -58,10 +58,12 @@ ShowToc: false
 
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) — Agent 基础设施
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) — AI Agent 白盒架构
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) — 大模型接入聊天软件
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — 多平台 AI 全能助理
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) — 多专家 AI Agent 团队
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Vercel Agent 浏览器
 - [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) — 语音操控浏览器
+- [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) — 腾讯 AI 浏览器技能
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) — AI Agent 专属浏览器
 - [epiral/bb-browser](https://github.com/epiral/bb-browser) — AI 操控浏览器
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) — AI 记忆平台
@@ -163,6 +165,7 @@ ShowToc: false
 
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 开源 RAG 引擎
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — 多模态 RAG
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — 腾讯 AI 知识库
 - [labring/FastGPT](https://github.com/labring/FastGPT) — 企业级 AI 知识库
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 无向量数据库 RAG
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — AI 全网数据 API
@@ -178,6 +181,7 @@ ShowToc: false
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) — AI Agent 身份认证
 - [logto-io/logto](https://github.com/logto-io/logto) — 开源认证基础设施
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) — 低代码内部工具平台
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) — 开源 AI CRM
 - [supabase/supabase](https://github.com/supabase/supabase) — AI 应用后端
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — AI Agent 开源教程
 - [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) — Deep Agents 实战教程
