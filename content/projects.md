@@ -21,7 +21,7 @@ ShowToc: false
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) — 代码地图生成
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) — 代码库知识图谱
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Claude Code AI 游戏工作室
-- [FissionAI/OpenSpec](https://github.com/FissionAI/OpenSpec) — AI 编程规范
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) — AI 编程规范（规格驱动开发）
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) — Block 开源的 AI 编程助手
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) — 零基础 AI 编程
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) — AI 编程外挂库
@@ -96,6 +96,7 @@ ShowToc: false
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — 字节多模态 Agent
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) — CV 模型军火库
 - [huggingface/transformers](https://github.com/huggingface/transformers) — 主流机器学习框架
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) — 微软多智能体框架
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — LangChain
 - [trycua/cua](https://github.com/trycua/cua) — Agent 精准操控
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — 轻量 AI Agent
@@ -122,6 +123,7 @@ ShowToc: false
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) — AI 闭嘴干活
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — AI 啰嗦终结者
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — AI 上下文压缩
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) — AI 编程成本统计
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) — LLM Token 极致压缩
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — 本地大模型 API 平台
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — 低配电脑跑大模型
@@ -159,6 +161,7 @@ ShowToc: false
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — AI UI 设计引擎
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 一键生成短视频
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) — AI 虚拟伴侣
+- [xszyou/Fay](https://github.com/xszyou/Fay) — 数字人 Agent 框架
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) — AI 数字人
 
 ## 知识与工具
