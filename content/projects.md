@@ -53,6 +53,9 @@ ShowToc: false
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) — 论文翻译神器
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) — PDF 无损转 Markdown
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) — 全自动 AI 程序员
+- [cline/cline](https://github.com/cline/cline) — 全平台开源编程智能体
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) — AI 编程的敏捷方法论
+- [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) — IDE 里可视化搭 AI 流水线
 
 ## AI Agent
 
@@ -90,7 +93,7 @@ ShowToc: false
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Agent 技能安全扫描
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 1500 技能包合集
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Agent 技能树
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) — AI 全能工作区
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) — AI 全能工作区
 - [simstudioai/sim](https://github.com/simstudioai/sim) — 流程图搭建 AI Agent
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) — 拖拽式 Agent 搭建
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — 字节多模态 Agent
@@ -112,6 +115,10 @@ ShowToc: false
 - [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) — 腾讯 AI Agent 管理工具
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — AI Agent 24/7 运行平台
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Agent 技能插件
+- [androoAGI/starnet](https://github.com/androoAGI/starnet) — 像素太空站式 Agent 工作台
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — Agent 安全沙箱运行时
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — 多智能体协作框架
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) — AI 求职助手
 
 ## 本地部署 & 省钱
 
@@ -140,6 +147,8 @@ ShowToc: false
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — 271 家 AI 统一端点
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) — 企业 AI 网关
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — API 省钱方案
+- [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — 大模型省显存训练库
+- [alibaba/MNN](https://github.com/alibaba/MNN) — 阿里端侧推理引擎
 
 ## 多模态创作
 
@@ -194,3 +203,8 @@ ShowToc: false
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — AI 写作品味优化
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — Claude Code 全攻略
+- [Budibase/budibase](https://github.com/Budibase/budibase) — 低代码平台 + AI Agent
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) — 金融数据接入底座（MCP）
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) — NotebookLM 程序化工具链
+- [google-deepmind/synthidbio](https://github.com/google-deepmind/synthidbio) — AI 蛋白质水印溯源
+- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) — AI 助手长期记忆库
