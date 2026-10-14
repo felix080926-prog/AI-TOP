@@ -56,6 +56,9 @@ ShowToc: false
 - [cline/cline](https://github.com/cline/cline) — 全平台开源编程智能体
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) — AI 编程的敏捷方法论
 - [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) — IDE 里可视化搭 AI 流水线
+- [upstash/context7](https://github.com/upstash/context7) — 给 AI 喂最新官方文档
+- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — Unity 引擎 AI 开发与测试闭环
+- [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) — Google 官方 Gemini 技能库
 
 ## AI Agent
 
@@ -119,6 +122,7 @@ ShowToc: false
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — Agent 安全沙箱运行时
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — 多智能体协作框架
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) — AI 求职助手
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) — 开源版 Zapier，280+ 工具
 
 ## 本地部署 & 省钱
 
@@ -149,6 +153,7 @@ ShowToc: false
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — API 省钱方案
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — 大模型省显存训练库
 - [alibaba/MNN](https://github.com/alibaba/MNN) — 阿里端侧推理引擎
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) — 4GB 显卡跑大模型
 
 ## 多模态创作
 
@@ -208,3 +213,4 @@ ShowToc: false
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) — NotebookLM 程序化工具链
 - [google-deepmind/synthidbio](https://github.com/google-deepmind/synthidbio) — AI 蛋白质水印溯源
 - [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) — AI 助手长期记忆库
+- [blader/humanizer](https://github.com/blader/humanizer) — 去 AI 味的写作技能
