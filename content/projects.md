@@ -59,6 +59,8 @@ ShowToc: false
 - [upstash/context7](https://github.com/upstash/context7) — 给 AI 喂最新官方文档
 - [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — Unity 引擎 AI 开发与测试闭环
 - [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) — Google 官方 Gemini 技能库
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — 聊天软件远程指挥 AI 编程助手
+- [xerj-org/xerj](https://github.com/xerj-org/xerj) — 代码库索引，给 AI 省 Token
 
 ## AI Agent
 
@@ -123,6 +125,7 @@ ShowToc: false
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — 多智能体协作框架
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) — AI 求职助手
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) — 开源版 Zapier，280+ 工具
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) — 智能体专属无头浏览器
 
 ## 本地部署 & 省钱
 
@@ -214,3 +217,5 @@ ShowToc: false
 - [google-deepmind/synthidbio](https://github.com/google-deepmind/synthidbio) — AI 蛋白质水印溯源
 - [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) — AI 助手长期记忆库
 - [blader/humanizer](https://github.com/blader/humanizer) — 去 AI 味的写作技能
+- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) — AI Agent 独立审计
+- [comet-ml/opik](https://github.com/comet-ml/opik) — LLM 应用全链路追踪
