@@ -90,6 +90,7 @@ ShowToc: false
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — AI 情绪交易系统
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) — AI 巴菲特选股框架
 - [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) — 数学建模 AI Agent
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) — AI 对冲基金多智能体团队
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — AI 股票交易 Agent
 - [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) — DeepSeek Harness 桌面版
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek 官方 Agent 框架
@@ -97,6 +98,7 @@ ShowToc: false
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — AI 红队测试平台
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Agent 技能安全扫描
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 1500 技能包合集
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — Cloudflare 安全审计技能
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Agent 技能树
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) — AI 全能工作区
 - [simstudioai/sim](https://github.com/simstudioai/sim) — 流程图搭建 AI Agent
@@ -151,7 +153,7 @@ ShowToc: false
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — 免费 635 模型 API
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) — 全网大模型统一网关
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite) — 吴恩达 AI 模型切换库
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — 271 家 AI 统一端点
+- [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) — 免费 AI 模型统一网关
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) — 企业 AI 网关
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — API 省钱方案
 - [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed) — 大模型省显存训练库
