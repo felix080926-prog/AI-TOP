@@ -68,6 +68,7 @@ ShowToc: false
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) — AI Agent 白盒架构
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) — 大模型接入聊天软件
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — 多平台 AI 全能助理
+- [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) — 自托管开源 AI 同事
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) — 多专家 AI Agent 团队
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Vercel Agent 浏览器
 - [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) — 语音操控浏览器
@@ -145,7 +146,7 @@ ShowToc: false
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — 低配电脑跑大模型
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) — 大模型微调加速
 - [jundot/omlx](https://github.com/jundot/omlx) — Mac 本地大模型
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) — 多模型 AI 网页聊天
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — 多模型 AI 网页聊天
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) — 本地大模型桌面应用
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Open WebUI
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — LobeHub
@@ -177,6 +178,7 @@ ShowToc: false
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — 开源智能视频工厂
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) — ComfyUI
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 编辑器即设计引擎
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) — 终端 Agent 设计技能包
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — AI UI 设计引擎
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 一键生成短视频
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) — AI 虚拟伴侣
@@ -188,6 +190,7 @@ ShowToc: false
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 开源 RAG 引擎
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — 多模态 RAG
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — 腾讯 AI 知识库
+- [jacob-bd/gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) — Gemini 笔记 MCP 命令行
 - [labring/FastGPT](https://github.com/labring/FastGPT) — 企业级 AI 知识库
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 无向量数据库 RAG
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — AI 全网数据 API
@@ -197,6 +200,7 @@ ShowToc: false
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — AI 互联网之眼
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — 开源趋势雷达
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — LLM 结构化输出
+- [google-deepmind/detectorscope](https://github.com/google-deepmind/detectorscope) — 可解释 AI 文本检测器
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) — LLM 可观测性平台
 - [PostHog/posthog](https://github.com/PostHog/posthog) — 全能产品分析
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
