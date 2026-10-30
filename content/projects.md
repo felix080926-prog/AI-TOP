@@ -100,6 +100,7 @@ ShowToc: false
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Agent 技能安全扫描
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 1500 技能包合集
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — Cloudflare 安全审计技能
+- [anthropics/skills](https://github.com/anthropics/skills) — Anthropic 官方 Agent 技能包
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Agent 技能树
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) — AI 全能工作区
 - [simstudioai/sim](https://github.com/simstudioai/sim) — 流程图搭建 AI Agent
@@ -179,6 +180,7 @@ ShowToc: false
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) — ComfyUI
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 编辑器即设计引擎
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) — 终端 Agent 设计技能包
+- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) — AI 设计技能库
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — AI UI 设计引擎
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 一键生成短视频
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) — AI 虚拟伴侣
@@ -187,6 +189,7 @@ ShowToc: false
 
 ## 知识与工具
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) — 全文 + 语义混合搜索
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 开源 RAG 引擎
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — 多模态 RAG
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — 腾讯 AI 知识库
