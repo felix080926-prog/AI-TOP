@@ -70,6 +70,7 @@ ShowToc: false
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) — 多平台 AI 全能助理
 - [Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet) — 自托管开源 AI 同事
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) — 多专家 AI Agent 团队
+- [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) — Mac 刘海里的 AI 审批
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Vercel Agent 浏览器
 - [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) — 语音操控浏览器
 - [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) — 腾讯 AI 浏览器技能
@@ -83,6 +84,7 @@ ShowToc: false
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) — LLM 推理缓存加速
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) — Agent 长线记忆
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — RLM 自改进 Agent
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — AI 操作桌面（无障碍树）
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — 全自动 AI 代理
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — 自我进化 Agent
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) — AI 自动进化
@@ -94,6 +96,7 @@ ShowToc: false
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) — AI 对冲基金多智能体团队
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — AI 股票交易 Agent
 - [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) — DeepSeek Harness 桌面版
+- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) — DeepSeek 超级智能体原型
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek 官方 Agent 框架
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) — DeepSeek TUI Agent
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — AI 红队测试平台
@@ -108,6 +111,7 @@ ShowToc: false
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — 字节多模态 Agent
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) — CV 模型军火库
 - [huggingface/transformers](https://github.com/huggingface/transformers) — 主流机器学习框架
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) — OpenAI 官方多智能体框架
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) — 微软多智能体框架
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — LangChain
 - [trycua/cua](https://github.com/trycua/cua) — Agent 精准操控
@@ -190,6 +194,7 @@ ShowToc: false
 ## 知识与工具
 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) — 全文 + 语义混合搜索
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway) — 实时增量 ETL / RAG 管道
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 开源 RAG 引擎
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — 多模态 RAG
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — 腾讯 AI 知识库
@@ -204,6 +209,7 @@ ShowToc: false
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — 开源趋势雷达
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — LLM 结构化输出
 - [google-deepmind/detectorscope](https://github.com/google-deepmind/detectorscope) — 可解释 AI 文本检测器
+- [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) — 英伟达 AI 语义层
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) — LLM 可观测性平台
 - [PostHog/posthog](https://github.com/PostHog/posthog) — 全能产品分析
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
