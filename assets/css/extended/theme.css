@@ -657,6 +657,68 @@ button#theme-toggle {
     margin-top: 2em;
 }
 
+/* ---- Projects category filter ---- */
+.projects-filter {
+    position: sticky;
+    top: var(--header-height);
+    z-index: 20;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 12px 0;
+    margin: 0 0 4px;
+    background: var(--theme);
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+}
+
+.projects-filter::-webkit-scrollbar {
+    display: none;
+}
+
+.pf-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    flex: 0 0 auto;
+    padding: 6px 14px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--entry);
+    color: var(--secondary);
+    font-size: 0.85em;
+    line-height: 1.4;
+    cursor: pointer;
+    transition: background 0.2s, border-color 0.2s, color 0.2s;
+    white-space: nowrap;
+}
+
+.pf-pill:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+}
+
+.pf-pill.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #ffffff;
+}
+
+.pf-pill .pf-count {
+    font-size: 0.85em;
+    opacity: 0.7;
+    padding: 0 2px;
+}
+
+.pf-pill.active .pf-count {
+    opacity: 0.9;
+}
+
+.pf-hidden {
+    display: none !important;
+}
+
 /* ---- Light Theme ---- */
 :root[data-theme=light] {
     --theme: #f8fafc;
