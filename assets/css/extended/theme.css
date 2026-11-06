@@ -663,18 +663,11 @@ button#theme-toggle {
     top: var(--header-height);
     z-index: 20;
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 8px;
-    overflow-x: auto;
     padding: 12px 0;
     margin: 0 0 4px;
     background: var(--theme);
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-}
-
-.projects-filter::-webkit-scrollbar {
-    display: none;
 }
 
 .pf-pill {
