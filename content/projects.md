@@ -76,6 +76,7 @@ ShowToc: false
 - [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) — 腾讯 AI 浏览器技能
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) — AI Agent 专属浏览器
 - [epiral/bb-browser](https://github.com/epiral/bb-browser) — AI 操控浏览器
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) — AI Agent 长期记忆层
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) — AI 记忆平台
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) — Agent 记忆操作系统
 - [mempalace/mempalace](https://github.com/mempalace/mempalace) — AI 记忆宫殿
@@ -111,6 +112,7 @@ ShowToc: false
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — 字节多模态 Agent
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) — CV 模型军火库
 - [huggingface/transformers](https://github.com/huggingface/transformers) — 主流机器学习框架
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) — 开源 AI 工程平台（训练/评测/部署）
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) — OpenAI 官方多智能体框架
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) — 微软多智能体框架
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — LangChain
@@ -137,6 +139,7 @@ ShowToc: false
 
 ## 本地部署 & 省钱
 
+- [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) — 英伟达 AI 工厂 K8s 集群引擎
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — Cherry Studio 多模型客户端
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) — 设备端 AI 推理
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — 浏览器跑大模型
@@ -210,6 +213,7 @@ ShowToc: false
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — LLM 结构化输出
 - [google-deepmind/detectorscope](https://github.com/google-deepmind/detectorscope) — 可解释 AI 文本检测器
 - [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) — 英伟达 AI 语义层
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) — 大模型评估与红队测试
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) — LLM 可观测性平台
 - [PostHog/posthog](https://github.com/PostHog/posthog) — 全能产品分析
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — AI 系统提示词合集
