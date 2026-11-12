@@ -2,8 +2,8 @@
 title: "AI文档工具被曝漏洞，作者重写了4.0"
 date: 2026-11-11
 draft: false
-categories: ["本地部署 & 省钱"]
-tags: ["本地部署 & 省钱"]
+categories: ["知识与工具"]
+tags: ["知识与工具"]
 cover:
     image: "covers/2026-11-11.webp"
     hiddenInList: false
