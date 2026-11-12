@@ -140,6 +140,7 @@ ShowToc: false
 ## 本地部署 & 省钱
 
 - [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) — 英伟达 AI 工厂 K8s 集群引擎
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) — 自托管 AI 文档归类与问答
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — Cherry Studio 多模型客户端
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) — 设备端 AI 推理
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — 浏览器跑大模型
@@ -185,6 +186,7 @@ ShowToc: false
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — AI 生图工作流
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — 开源智能视频工厂
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) — ComfyUI
+- [meta/astryx](https://github.com/meta/astryx) — Meta 面向 Agent 的开源设计系统
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 编辑器即设计引擎
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) — 终端 Agent 设计技能包
 - [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) — AI 设计技能库
@@ -198,6 +200,7 @@ ShowToc: false
 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) — 全文 + 语义混合搜索
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) — 实时增量 ETL / RAG 管道
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) — 各大模型系统提示词合集
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 开源 RAG 引擎
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — 多模态 RAG
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — 腾讯 AI 知识库
