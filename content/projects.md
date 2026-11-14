@@ -32,9 +32,11 @@ ShowToc: false
 - [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) — Unity AI 编程指挥官
 - [meta/astryx](https://github.com/meta/astryx) — Meta 面向 Agent 的开源设计系统
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — AI 设计审美系统
+- [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) — 让 AI 写现代网页的 agent skill
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — AI 前端审美引擎
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — DeepSeek 编程 Agent
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — AI 代码瘦身插件
+- [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) — DeepSeek 官方开源聊天前端
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — 开源 AI 编码助手
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) — 本地 AI 码农
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) — JetBrains Go 规范
