@@ -51,6 +51,7 @@ ShowToc: false
 - [multica-ai/multica](https://github.com/multica-ai/multica) — Claude Code AI 军团
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — Karpathy 编码技能
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — AI 编程账单节省
+- [dream-num/univer](https://github.com/dream-num/univer) — AI Agent 办公 SDK（表格/文档引擎）
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — AI Agent Office 套件
 - [allenai/olmocr](https://github.com/allenai/olmocr) — AI2 PDF 转 Markdown 神器
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) — 论文翻译神器
