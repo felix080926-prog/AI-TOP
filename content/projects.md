@@ -105,6 +105,7 @@ ShowToc: false
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek 官方 Agent 框架
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) — DeepSeek TUI Agent
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — AI 红队测试平台
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) — Agent 技能质量评估框架
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — Agent 技能安全扫描
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 1500 技能包合集
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — Cloudflare 安全审计技能
@@ -155,6 +156,7 @@ ShowToc: false
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) — AI 编程成本统计
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) — LLM Token 极致压缩
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) — 本地大模型 API 平台
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) — 纯 C/C++ 本地文生图引擎
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — 低配电脑跑大模型
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) — 大模型微调加速
 - [jundot/omlx](https://github.com/jundot/omlx) — Mac 本地大模型
