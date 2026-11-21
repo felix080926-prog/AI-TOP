@@ -118,6 +118,7 @@ ShowToc: false
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) — CV 模型军火库
 - [huggingface/transformers](https://github.com/huggingface/transformers) — 主流机器学习框架
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) — 开源 AI 工程平台（训练/评测/部署）
+- [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) — 论文写作多智能体框架
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) — OpenAI 官方多智能体框架
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) — 微软多智能体框架
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — LangChain
@@ -189,6 +190,7 @@ ShowToc: false
 - [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) — AI 视频工厂
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) — 内容自动分发
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — AI 生图工作流
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — 可逐帧编辑的 AI 视频框架
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — 开源智能视频工厂
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) — ComfyUI
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 编辑器即设计引擎
@@ -216,6 +218,7 @@ ShowToc: false
 - [apify/crawlee](https://github.com/apify/crawlee) — 工业级爬虫框架
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — LLM 专用高速爬虫
 - [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) — AI 对话整理插件
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) — 实时地球 OSINT（MCP 接入）
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — AI 互联网之眼
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — 开源趋势雷达
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — LLM 结构化输出
@@ -233,6 +236,7 @@ ShowToc: false
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — AI Agent 开源教程
 - [datawhalechina/deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) — Deep Agents 实战教程
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — AI 终身学习伙伴
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) — Google 官方生成式 AI 示例库
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) — 从零手写大模型
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — AI 工程从零学起
 
